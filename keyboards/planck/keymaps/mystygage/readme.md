@@ -1,7 +1,7 @@
 # mystygage's Planck Layout
 
-QWERTY and Workman layout for Planck Rev6
+QWERTY, Workman and Colemak layout for Planck Rev6
 
 ```shell
-make planck/rev6:mystygage
+make planck/rev6_drop:mystygage
 ```
